@@ -5,3 +5,5 @@ window.onload = function () {
     console.log(1)
 }
 console.log(1)
+
+alert(1)
